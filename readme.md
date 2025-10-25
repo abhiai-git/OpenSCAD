@@ -1,4 +1,4 @@
-# OpenSCAD Undergrad College Project
+# OpenSCAD (Undergrad College Project)
 
 This repository contains an OpenSCAD project developed as part of an undergrad college course.
 
